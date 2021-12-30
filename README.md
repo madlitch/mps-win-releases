@@ -1,4 +1,4 @@
-Repository for MADPIXELSORT Releases
+Repository for MADPIXELSORT Windows Releases
 
 https://www.madpixelsort.com
 
